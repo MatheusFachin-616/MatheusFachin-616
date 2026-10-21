@@ -1,6 +1,5 @@
 ## Oi 💜
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKus1W1l0uTyZRnuPwc7OL5CEN8EiJzuI5gdUbdaha6P3gWxKzfNE2DZQ&s=10">
 <!--
 **MatheusFachin-616/MatheusFachin-616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
